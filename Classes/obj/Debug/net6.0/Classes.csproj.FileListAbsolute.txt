@@ -1,0 +1,15 @@
+C:\Users\spklo\workspace\csharp\exercises\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\spklo\workspace\csharp\exercises\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\spklo\workspace\csharp\exercises\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\spklo\workspace\csharp\exercises\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\spklo\workspace\csharp\exercises\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\spklo\workspace\csharp\exercises\Classes\obj\Debug\net6.0\ref\Classes.dll
